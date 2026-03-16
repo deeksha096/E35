@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-10T20:54:13 IST" name="Suite" finished-at="2025-12-10T20:54:49 IST" duration-ms="36544">
+    <groups>
+    </groups>
+    <test started-at="2025-12-10T20:54:13 IST" name="Test" finished-at="2025-12-10T20:54:49 IST" duration-ms="36544">
+      <class name="Batchexecution.demo1">
+        <test-method signature="Facebook()[pri:0, instance:Batchexecution.demo1@358ee631]" started-at="2025-12-10T20:54:21 IST" name="Facebook" finished-at="2025-12-10T20:54:24 IST" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+      </class> <!-- Batchexecution.demo1 -->
+      <class name="Batchexecution.Demo2">
+        <test-method signature="instagram()[pri:0, instance:Batchexecution.Demo2@233fe9b6]" started-at="2025-12-10T20:54:18 IST" name="instagram" finished-at="2025-12-10T20:54:21 IST" duration-ms="2607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagram -->
+      </class> <!-- Batchexecution.Demo2 -->
+      <class name="Batchexecution.Demo3">
+        <test-method signature="flipkart()[pri:0, instance:Batchexecution.Demo3@5bfa9431]" started-at="2025-12-10T20:54:13 IST" name="flipkart" finished-at="2025-12-10T20:54:18 IST" duration-ms="5212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+      </class> <!-- Batchexecution.Demo3 -->
+      <class name="Batchexecution.Demo5">
+        <test-method signature="myntra()[pri:0, instance:Batchexecution.Demo5@3c72f59f]" started-at="2025-12-10T20:54:38 IST" name="myntra" finished-at="2025-12-10T20:54:49 IST" duration-ms="11546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+      </class> <!-- Batchexecution.Demo5 -->
+      <class name="Batchexecution.demo4">
+        <test-method signature="ajio()[pri:0, instance:Batchexecution.demo4@ec756bd]" started-at="2025-12-10T20:54:24 IST" name="ajio" finished-at="2025-12-10T20:54:38 IST" duration-ms="13571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ajio -->
+      </class> <!-- Batchexecution.demo4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
